@@ -1,0 +1,51 @@
+.container{
+    background-color: white;
+}
+.informazioni {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+
+}
+.sinistro{
+    border: 5px solid orange;
+}
+
+.destro{
+    border: 5px solid orange;
+    background-color: white;
+}
+.bottone{
+    border: 5px solid blue;
+    background-color: orange;
+}
+.link{
+    margin-top: 2%;
+    text-align: center;
+}
+
+.sinistro{float:left;}
+
+.destro{float:right;}
+
+.sinistro, .destro {
+    width:150px;
+    height:150px;
+    background-color:white;
+}
+.video{
+    border: 5px solid orange;
+    width:800px;
+    height:450px;
+}
+.b{
+    border: 5px solid blue;
+    background-color:orange;
+}
+.bottonazzo{
+    margin: 3%;
+    text-align: center;
+}
+.videomio{
+    text-align: center;
+}
